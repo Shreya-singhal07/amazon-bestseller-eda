@@ -18,27 +18,25 @@ This project dives into the trends and patterns of Amazon's bestselling books us
 
 ## Dataset Design
 
-### 1. Categories
+| Categories         | Authors              | Publishers                |
+|--------------------|----------------------|----------------------------|
+| Fiction            | J.K. Rowling         | Penguin Random House       |
+| Non-Fiction        | Stephen King         | HarperCollins              |
+| Mystery            | Malcolm Gladwell     | Simon & Schuster           |
+| Science Fiction    | James Patterson      | Hachette Book Group        |
+| Romance            | Brené Brown          | Macmillan Publishers       |
+| Biography          | Michelle Obama       | Scholastic                 |
+| Self-Help          | J.R.R. Tolkien       | Wiley                      |
+| Business           | Dale Carnegie        | Oxford University Press    |
+| Children           | Yuval Noah Harari    | Bloomsbury                 |
+| Young Adult        | Robert Greene        |                            |
+|                    | Paulo Coelho         |                            |
+|                    | Rick Riordan         |                            |
+|                    | George R.R. Martin   |                            |
+|                    | Rupi Kaur            |                            |
+|                    | John Grisham         |                            |
+|                    | Colleen Hoover       |                            |
 
-| Fiction | Non-Fiction | Mystery | Science Fiction | Romance |
-|---------|-------------|---------|------------------|---------|
-| Biography | Self-Help | Business | Children | Young Adult |
-
-### 2. Authors
-
-|--------------------|--------------------|--------------------|--------------------|
-| J.K. Rowling       | Stephen King       | Malcolm Gladwell   | James Patterson    |
-| Brené Brown        | Michelle Obama     | J.R.R. Tolkien     | Dale Carnegie      |
-| Yuval N. Harari    | Robert Greene      | Paulo Coelho       | Rick Riordan       |
-| George R.R. Martin | Rupi Kaur          | John Grisham       | Colleen Hoover     |
-
-### 3. Publishers
-
-
-|---------------------------|----------------------|--------------------------|
-| Penguin Random House      | HarperCollins        | Simon & Schuster         |
-| Hachette Book Group       | Macmillan Publishers | Scholastic               |
-| Wiley                     | Oxford Univ. Press   | Bloomsbury               |
 
 
 ## Key Insights
