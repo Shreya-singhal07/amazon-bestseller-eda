@@ -6,14 +6,14 @@ This project dives into the trends and patterns of Amazon's bestselling books us
 
 ## Dataset Summary
 
-- 📘 **Total number of books**
-- ⭐ **Number of bestsellers** 
-- ✍️ **Number of authors** 
-- 🏢 **Number of publishers**
-- 💰 **Average book price**  
-- 🌟 **Average book rating** 
-- 🗂️ **Most common category**  
-- 📦 **Most common format**
+- **Total number of books**
+- **Number of bestsellers** 
+- **Number of authors** 
+- **Number of publishers**
+- **Average book price**  
+- **Average book rating** 
+- **Most common category**  
+- **Most common format**
 
 ---
 
