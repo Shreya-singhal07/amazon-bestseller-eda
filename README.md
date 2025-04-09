@@ -26,7 +26,6 @@ This project dives into the trends and patterns of Amazon's bestselling books us
 
 ### 2. Authors
 
-| Author 1           | Author 2           | Author 3           | Author 4           |
 |--------------------|--------------------|--------------------|--------------------|
 | J.K. Rowling       | Stephen King       | Malcolm Gladwell   | James Patterson    |
 | Brené Brown        | Michelle Obama     | J.R.R. Tolkien     | Dale Carnegie      |
@@ -35,7 +34,7 @@ This project dives into the trends and patterns of Amazon's bestselling books us
 
 ### 3. Publishers
 
-| Publisher 1               | Publisher 2          | Publisher 3             |
+
 |---------------------------|----------------------|--------------------------|
 | Penguin Random House      | HarperCollins        | Simon & Schuster         |
 | Hachette Book Group       | Macmillan Publishers | Scholastic               |
