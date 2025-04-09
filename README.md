@@ -6,47 +6,46 @@ This project dives into the trends and patterns of Amazon's bestselling books us
 
 ## Dataset Summary
 
-- 📘 **Total number of books**: X  
-- ⭐ **Number of bestsellers**: X  
-- ✍️ **Number of authors**: X  
-- 🏢 **Number of publishers**: X  
-- 💰 **Average book price**: ₹X  
-- 🌟 **Average book rating**: X  
-- 🗂️ **Most common category**: `CategoryName`  
-- 📦 **Most common format**: `FormatType`
+- 📘 **Total number of books**
+- ⭐ **Number of bestsellers** 
+- ✍️ **Number of authors** 
+- 🏢 **Number of publishers**
+- 💰 **Average book price**  
+- 🌟 **Average book rating** 
+- 🗂️ **Most common category**  
+- 📦 **Most common format**
 
 ---
 
 ## Key Insights
 
 ### 1. Price Insights
-- **Most expensive category**: `CategoryName`
-- **Least expensive category**: `CategoryName`
-- **Most expensive format**: `FormatType`
-- **Price trend**: Price trends over the years show...
+- **Most expensive category**
+- **Least expensive category**
+- **Most expensive format**
+- **Price trend**
 
 ### 2. Rating Insights
-- **Highest rated category**: `CategoryName`
-- **Lowest rated category**: `CategoryName`
-- **Highest rated format**: `FormatType`
-- **Rating trend**: Ratings have generally...
+- **Highest rated category**
+- **Lowest rated category**
+- **Highest rated format**
+- **Rating trend**
 
 ### 3. Bestseller Insights
-- **Category with most bestsellers**: `CategoryName`
-- **Category with highest bestseller rate**: `CategoryName`
-- **Publisher with most bestsellers**: `PublisherName`
-- **Price difference (Bestsellers vs Non-bestsellers)**: ₹X
-- **Rating difference (Bestsellers vs Non-bestsellers)**: X⭐
+- **Category with most bestsellers**
+- **Category with highest bestseller rate**
+- **Publisher with most bestsellers**
+- **Price difference (Bestsellers vs Non-bestsellers)**
+- **Rating difference (Bestsellers vs Non-bestsellers)**
 
 ### 4. Format and Category Trends
-- **Most popular category in earliest decade**: `CategoryName`
-- **Most popular category in latest decade**: `CategoryName`
-- **Most popular format in earliest decade**: `FormatType`
-- **Most popular format in latest decade**: `FormatType`
+- **Most popular category in earliest decade**
+- **Most popular category in latest decade**
+- **Most popular format in earliest decade**
+- **Most popular format in latest decade**
 
 ### 5. Author Insights
-- **Author with most books**: `AuthorName`
-- **Highest rated author (min. 3 books)**: `AuthorName`
-
+- **Author with most books**
+- **Highest rated author (min. 3 books)**
 ---
 
