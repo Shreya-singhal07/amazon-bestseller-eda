@@ -15,7 +15,32 @@ This project dives into the trends and patterns of Amazon's bestselling books us
 - **Most common category**  
 - **Most common format**
 
----
+
+## Dataset Design
+
+### 1. Categories
+
+| Fiction | Non-Fiction | Mystery | Science Fiction | Romance |
+|---------|-------------|---------|------------------|---------|
+| Biography | Self-Help | Business | Children | Young Adult |
+
+### 2. Authors
+
+| Author 1           | Author 2           | Author 3           | Author 4           |
+|--------------------|--------------------|--------------------|--------------------|
+| J.K. Rowling       | Stephen King       | Malcolm Gladwell   | James Patterson    |
+| Brené Brown        | Michelle Obama     | J.R.R. Tolkien     | Dale Carnegie      |
+| Yuval N. Harari    | Robert Greene      | Paulo Coelho       | Rick Riordan       |
+| George R.R. Martin | Rupi Kaur          | John Grisham       | Colleen Hoover     |
+
+### 3. Publishers
+
+| Publisher 1               | Publisher 2          | Publisher 3             |
+|---------------------------|----------------------|--------------------------|
+| Penguin Random House      | HarperCollins        | Simon & Schuster         |
+| Hachette Book Group       | Macmillan Publishers | Scholastic               |
+| Wiley                     | Oxford Univ. Press   | Bloomsbury               |
+
 
 ## Key Insights
 
